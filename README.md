@@ -29,5 +29,5 @@ Follow the steps below to set up the project on your machine.
 
 ```bash
 git clone https://github.com/ompakash/LEARN-AUTOGEN.git
-cd autogen-learning
+cd LEARN-AUTOGEN
 uv add -r .\requirements.txt
