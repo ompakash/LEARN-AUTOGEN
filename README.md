@@ -31,3 +31,4 @@ Follow the steps below to set up the project on your machine.
 git clone https://github.com/ompakash/LEARN-AUTOGEN.git
 cd LEARN-AUTOGEN
 uv add -r .\requirements.txt
+cp .env-example .env
